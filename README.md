@@ -3,6 +3,7 @@
 # And this is a newer sentence
 # Well, this is last sentence for today
 # Seems, i haven't done all my work, yet
+# I have too complete this one
 *A mostly reasonable approach to JavaScript*
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
